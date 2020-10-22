@@ -1,0 +1,331 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PC_SB_MODUL2
+</name>
+</assembly>
+<members>
+<member name="T:PC_SB_MODUL2.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:PC_SB_MODUL2.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:PC_SB_MODUL2.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.CategoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.CustomerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.DetailDepositDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.EmployeeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.HeaderDepositDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.JobDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.PackageDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.PrepaidPackageDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.ServiceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.UnitDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.View_Employee_JobDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.View_Pacakge_ServiceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.View_PrepaidPackageDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.CategoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.CustomerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.DetailDepositRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.EmployeeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.HeaderDepositRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.JobRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.PackageRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.PrepaidPackageRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.ServiceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.UnitRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.View_Employee_JobRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.View_Pacakge_ServiceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.View_PrepaidPackageRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.CategoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.CustomerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.DetailDepositRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.EmployeeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.HeaderDepositRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.JobRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.PackageRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.PrepaidPackageRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.ServiceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.UnitRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.View_Employee_JobRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.View_Pacakge_ServiceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSet.View_PrepaidPackageRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSetTableAdapters.CategoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSetTableAdapters.CustomerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSetTableAdapters.DetailDepositTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSetTableAdapters.EmployeeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSetTableAdapters.HeaderDepositTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSetTableAdapters.JobTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSetTableAdapters.PackageTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSetTableAdapters.PrepaidPackageTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSetTableAdapters.ServiceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSetTableAdapters.UnitTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSetTableAdapters.View_Employee_JobTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSetTableAdapters.View_Pacakge_ServiceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSetTableAdapters.View_PrepaidPackageTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:PC_SB_MODUL2.PC_SB_MODUL2DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(PC_SB_MODUL2.PC_SB_MODUL2DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:PC_SB_MODUL2.PC_SB_MODUL2DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(PC_SB_MODUL2.PC_SB_MODUL2DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:PC_SB_MODUL2.PC_SB_MODUL2DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(PC_SB_MODUL2.PC_SB_MODUL2DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:PC_SB_MODUL2.PC_SB_MODUL2DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:PC_SB_MODUL2.PC_SB_MODUL2DataSetTableAdapters.TableAdapterManager.UpdateAll(PC_SB_MODUL2.PC_SB_MODUL2DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:PC_SB_MODUL2.PC_SB_MODUL2DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">One Weather</string>
+    <string name="data">DATA</string>
+    <string name="login">Login</string>
+    <string name="plus">+</string>
+    <string name="weather">Weather</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="submit">Submit</string>
+    <string name="email">Email</string>
+    <string name="upload">Upload</string>
+    <string name="temperature">Temperature</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="location">Location</string>
+</resources>
